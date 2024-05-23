@@ -1,0 +1,13 @@
+salve vitão
+
+então man eu clonei o site dos caras e só tem que fazer alguns ajustes que são
+
+-ajeitar os erros de português
+
+-Fazer com que o botão do carrinho adicione o valor desejado (o carrinho já está no esquema)
+
+-na tela de login fazer com que apareça a mensagem de conta criada com sucesso pq ela vai ser fake.
+
+-mudar as imagens e o nome da empresa que pode ser sorveteria flamingo pq vai ser ficticia.
+
+-e se vc encontrar mais algo de errado ai é so mudar VLW NEGOOOOO
